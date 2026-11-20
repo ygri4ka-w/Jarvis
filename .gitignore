@@ -1,0 +1,22 @@
+# Local Python environment and caches
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Generated Windows builds and downloaded models
+build/
+dist/
+models/
+*.spec
+*.zip
+
+# Local configuration, logs and secrets
+.env
+.env.*
+*.log
+commands.json
+settings.json
+crash.log

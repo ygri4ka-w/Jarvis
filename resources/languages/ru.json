@@ -1,0 +1,18 @@
+{
+  "label": "Російська",
+  "model": "vosk-model-small-ru-0.22",
+  "wake_words": ["джарвис", "джарвіс", "джарвісе", "jarvis"],
+  "commands": {
+    "открой калькулятор": "calculator",
+    "открой блокнот": "notepad",
+    "открой браузер": "browser",
+    "который час": "time",
+    "сколько времени": "time",
+    "останови ассистента": "stop",
+    "выключи компьютер": "shutdown",
+    "открой ютуб": "youtube",
+    "открой youtube": "youtube",
+    "закрой приложение": "close_application",
+    "закрой джарвис": "close_application"
+  }
+}

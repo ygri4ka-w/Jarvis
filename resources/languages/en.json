@@ -1,0 +1,25 @@
+{
+  "label": "Англійська",
+  "model": "vosk-model-small-en-us-0.15",
+  "wake_words": ["jarvis"],
+  "commands": {
+    "open calculator": "calculator",
+    "open the calculator": "calculator",
+    "open notepad": "notepad",
+    "open browser": "browser",
+    "open the browser": "browser",
+    "what time is it": "time",
+    "tell me the time": "time",
+    "stop assistant": "stop",
+    "stop the assistant": "stop",
+    "shut down computer": "shutdown",
+    "shut down the computer": "shutdown",
+    "shutdown computer": "shutdown",
+    "turn off computer": "shutdown",
+    "open youtube": "youtube",
+    "open you tube": "youtube",
+    "close application": "close_application",
+    "close the application": "close_application",
+    "close jarvis": "close_application"
+  }
+}
